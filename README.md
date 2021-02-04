@@ -9,3 +9,5 @@ Recriamos a interface do principal streaming mundial utilizando tecnologias simp
 * Utilizar plugins Jquery 
 
 Oriantada pelo [Desenvolvedor Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/)
+
+![screnshot](https://github.com/Josewesley2020/Clone-Netflix/blob/main/imgs/netflix.jpg)
